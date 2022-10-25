@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/bdmarketplace":{"type":null,"mount_options":["uid=1000","gid=1000","_netdev"],"guestpath":"/home/vagrant/bdmarketplace","hostpath":"G:/Projects/Laravel/bd-marketplace","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"G:/Projects/Laravel/bd-marketplace","disabled":false,"__vagrantfile":true}}}
